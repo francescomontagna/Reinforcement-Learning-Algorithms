@@ -2,4 +2,4 @@
 Implementation of some basic Reinforcement Learning algorithms
 
 - [x] Glie Monte Carlo control  
-- [ ] TD(0) control
+- [x] SARSA
